@@ -8,3 +8,7 @@ What are some situations when branches would be helpful in keeping your history 
 	when we want to modified a project but its not a consider modification to make a new version... branches will help an easy way to work in diferent feature that are not to essential at same time. It helps too in team colaborating
 How do the diagrams help you visualize the branch structure?
 	Alowing you to know in which commit exactly you were when you branch
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	the result is having one branch that is master. to easily understand whats is happening with our project.
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+	The pros of Git’s automatic merging vs. always doing merges manually are that facilitate and make easy the work for who is merging but the cons is that you wont know what is realing happy on the process of merge and when its not possible to automatic you will need to work hard to find it.
