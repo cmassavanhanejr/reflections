@@ -16,7 +16,7 @@ docs does?
 
  
 A: 
-	Pros: * You know when is essencial or not
+	Pros: * You know when is essencial or not able...
 	Cons: * You can forget to commit some important fix
 
 
